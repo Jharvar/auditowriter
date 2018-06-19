@@ -1,2 +1,2 @@
-# gestor_compania_de_teatro
-Proyecto Final del Grado Superior de Desarrollo de Aplicaciones Multiplataforma
+# auditowriter
+Programa de documentación de auditorias informáticas
